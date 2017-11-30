@@ -69,6 +69,7 @@
             this.pointsCount.TabIndex = 1;
             this.pointsCount.TabStop = false;
             this.pointsCount.Text = "6";
+            this.pointsCount.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.pointsCount_KeyPress);
             // 
             // comboBox1
             // 
@@ -83,6 +84,7 @@
             this.comboBox1.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);
             this.comboBox1.SelectionChangeCommitted += new System.EventHandler(this.comboBox1_SelectionChangeCommitted);
             this.comboBox1.Click += new System.EventHandler(this.comboBox1_Click);
+         //   this.comboBox1.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.comboBox1_KeyPress);
             // 
             // upBtn
             // 
@@ -197,6 +199,7 @@
             this.stepTextBox.Size = new System.Drawing.Size(86, 20);
             this.stepTextBox.TabIndex = 15;
             this.stepTextBox.Text = "6";
+            this.stepTextBox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.stepTextBox_KeyPress);
             // 
             // label4
             // 
@@ -242,6 +245,7 @@
             this.Controls.Add(this.textBox1);
             this.Name = "Form1";
             this.Text = "Манипулятор робота (плоский как Земля и шутки Андрея)";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyDown);
             this.KeyUp += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyUp);
             this.groupBox1.ResumeLayout(false);

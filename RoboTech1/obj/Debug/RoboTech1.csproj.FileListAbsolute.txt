@@ -74,3 +74,11 @@ C:\Users\Заходи не стесняйся\Desktop\Robotech2 - копия\Rob
 C:\Users\Заходи не стесняйся\Desktop\Robotech2 - копия\RoboTech1\obj\Debug\RoboTech1.Form1.resources
 C:\Users\Заходи не стесняйся\Desktop\Robotech2 - копия\RoboTech1\obj\Debug\RoboTech1.Properties.Resources.resources
 C:\Users\Заходи не стесняйся\Desktop\Robotech2 - копия\RoboTech1\obj\Debug\RoboTech1.csproj.GenerateResource.Cache
+C:\Users\home\robot\Robotech2\RoboTech1\bin\Debug\RoboTech1.exe.config
+C:\Users\home\robot\Robotech2\RoboTech1\obj\Debug\RoboTech1.exe
+C:\Users\home\robot\Robotech2\RoboTech1\obj\Debug\RoboTech1.pdb
+C:\Users\home\robot\Robotech2\RoboTech1\bin\Debug\RoboTech1.exe
+C:\Users\home\robot\Robotech2\RoboTech1\bin\Debug\RoboTech1.pdb
+C:\Users\home\robot\Robotech2\RoboTech1\obj\Debug\RoboTech1.Form1.resources
+C:\Users\home\robot\Robotech2\RoboTech1\obj\Debug\RoboTech1.Properties.Resources.resources
+C:\Users\home\robot\Robotech2\RoboTech1\obj\Debug\RoboTech1.csproj.GenerateResource.Cache
