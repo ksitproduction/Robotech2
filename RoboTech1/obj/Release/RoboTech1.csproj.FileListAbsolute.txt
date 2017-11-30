@@ -1,0 +1,74 @@
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\ProgForInet\RoboTech1\RoboTech1\bin\Release\RoboTech1.exe.config
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\ProgForInet\RoboTech1\RoboTech1\bin\Release\RoboTech1.exe
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\ProgForInet\RoboTech1\RoboTech1\bin\Release\RoboTech1.pdb
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\ProgForInet\RoboTech1\RoboTech1\obj\Release\RoboTech1.Form1.resources
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\ProgForInet\RoboTech1\RoboTech1\obj\Release\RoboTech1.Properties.Resources.resources
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\ProgForInet\RoboTech1\RoboTech1\obj\Release\RoboTech1.csproj.GenerateResource.Cache
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\ProgForInet\RoboTech1\RoboTech1\obj\Release\RoboTech1.exe
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\ProgForInet\RoboTech1\RoboTech1\obj\Release\RoboTech1.pdb
+C:\Users\Andrew\Desktop\RoboTech1\RoboTech1\bin\Release\RoboTech1.exe.config
+C:\Users\Andrew\Desktop\RoboTech1\RoboTech1\obj\Release\RoboTech1.exe
+C:\Users\Andrew\Desktop\RoboTech1\RoboTech1\obj\Release\RoboTech1.pdb
+C:\Users\Andrew\Desktop\RoboTech1\RoboTech1\bin\Release\RoboTech1.exe
+C:\Users\Andrew\Desktop\RoboTech1\RoboTech1\bin\Release\RoboTech1.pdb
+C:\Users\Andrew\Desktop\RoboTech1\RoboTech1\obj\Release\RoboTech1.Form1.resources
+C:\Users\Andrew\Desktop\RoboTech1\RoboTech1\obj\Release\RoboTech1.Properties.Resources.resources
+C:\Users\Andrew\Desktop\RoboTech1\RoboTech1\obj\Release\RoboTech1.csproj.GenerateResource.Cache
+C:\Users\Andrew\Desktop\RoboTech1 — копия\RoboTech1\bin\Release\RoboTech1.exe.config
+C:\Users\Andrew\Desktop\RoboTech1 — копия\RoboTech1\obj\Release\RoboTech1.exe
+C:\Users\Andrew\Desktop\RoboTech1 — копия\RoboTech1\obj\Release\RoboTech1.pdb
+C:\Users\Andrew\Desktop\RoboTech1 — копия\RoboTech1\bin\Release\RoboTech1.exe
+C:\Users\Andrew\Desktop\RoboTech1 — копия\RoboTech1\bin\Release\RoboTech1.pdb
+C:\Users\Andrew\Desktop\RoboTech1 — копия\RoboTech1\obj\Release\RoboTech1.Form1.resources
+C:\Users\Andrew\Desktop\RoboTech1 — копия\RoboTech1\obj\Release\RoboTech1.Properties.Resources.resources
+C:\Users\Andrew\Desktop\RoboTech1 — копия\RoboTech1\obj\Release\RoboTech1.csproj.GenerateResource.Cache
+C:\Users\Andrew\RoboTech\RoboTech1\RoboTech1\bin\Release\RoboTech1.exe.config
+C:\Users\Andrew\RoboTech\RoboTech1\RoboTech1\obj\Release\RoboTech1.exe
+C:\Users\Andrew\RoboTech\RoboTech1\RoboTech1\obj\Release\RoboTech1.pdb
+C:\Users\Andrew\RoboTech\RoboTech1\RoboTech1\bin\Release\RoboTech1.exe
+C:\Users\Andrew\RoboTech\RoboTech1\RoboTech1\bin\Release\RoboTech1.pdb
+C:\Users\Andrew\RoboTech\RoboTech1\RoboTech1\obj\Release\RoboTech1.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\RoboTech\RoboTech1\RoboTech1\obj\Release\RoboTech1.Form1.resources
+C:\Users\Andrew\RoboTech\RoboTech1\RoboTech1\obj\Release\RoboTech1.Properties.Resources.resources
+C:\Users\Andrew\RoboTech\RoboTech1\RoboTech1\obj\Release\RoboTech1.csproj.GenerateResource.Cache
+C:\Users\Andrew\RoboTech\RoboTech1\bin\Release\RoboTech1.exe.config
+C:\Users\Andrew\RoboTech\RoboTech1\obj\Release\RoboTech1.exe
+C:\Users\Andrew\RoboTech\RoboTech1\obj\Release\RoboTech1.pdb
+C:\Users\Andrew\RoboTech\RoboTech1\bin\Release\RoboTech1.exe
+C:\Users\Andrew\RoboTech\RoboTech1\bin\Release\RoboTech1.pdb
+C:\Users\Andrew\RoboTech\RoboTech1\obj\Release\RoboTech1.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\RoboTech\RoboTech1\obj\Release\RoboTech1.Form1.resources
+C:\Users\Andrew\RoboTech\RoboTech1\obj\Release\RoboTech1.Properties.Resources.resources
+C:\Users\Andrew\RoboTech\RoboTech1\obj\Release\RoboTech1.csproj.GenerateResource.Cache
+C:\Users\Andrew\RoboTech\Robotech2\RoboTech1\bin\Release\RoboTech1.exe.config
+C:\Users\Andrew\RoboTech\Robotech2\RoboTech1\obj\Release\RoboTech1.exe
+C:\Users\Andrew\RoboTech\Robotech2\RoboTech1\obj\Release\RoboTech1.pdb
+C:\Users\Andrew\RoboTech\Robotech2\RoboTech1\bin\Release\RoboTech1.exe
+C:\Users\Andrew\RoboTech\Robotech2\RoboTech1\bin\Release\RoboTech1.pdb
+C:\Users\Andrew\RoboTech\Robotech2\RoboTech1\obj\Release\RoboTech1.Form1.resources
+C:\Users\Andrew\RoboTech\Robotech2\RoboTech1\obj\Release\RoboTech1.Properties.Resources.resources
+C:\Users\Andrew\RoboTech\Robotech2\RoboTech1\obj\Release\RoboTech1.csproj.GenerateResource.Cache
+C:\Users\epanov_a\Robotech2\RoboTech1\bin\Release\RoboTech1.exe.config
+C:\Users\epanov_a\Robotech2\RoboTech1\bin\Release\RoboTech1.exe
+C:\Users\epanov_a\Robotech2\RoboTech1\bin\Release\RoboTech1.pdb
+C:\Users\epanov_a\Robotech2\RoboTech1\obj\Release\RoboTech1.Form1.resources
+C:\Users\epanov_a\Robotech2\RoboTech1\obj\Release\RoboTech1.Properties.Resources.resources
+C:\Users\epanov_a\Robotech2\RoboTech1\obj\Release\RoboTech1.csproj.GenerateResource.Cache
+C:\Users\epanov_a\Robotech2\RoboTech1\obj\Release\RoboTech1.exe
+C:\Users\epanov_a\Robotech2\RoboTech1\obj\Release\RoboTech1.pdb
+F:\Robotech2 - копия\RoboTech1\bin\Release\RoboTech1.exe.config
+F:\Robotech2 - копия\RoboTech1\obj\Release\RoboTech1.exe
+F:\Robotech2 - копия\RoboTech1\obj\Release\RoboTech1.pdb
+F:\Robotech2 - копия\RoboTech1\bin\Release\RoboTech1.exe
+F:\Robotech2 - копия\RoboTech1\bin\Release\RoboTech1.pdb
+F:\Robotech2 - копия\RoboTech1\obj\Release\RoboTech1.Form1.resources
+F:\Robotech2 - копия\RoboTech1\obj\Release\RoboTech1.Properties.Resources.resources
+F:\Robotech2 - копия\RoboTech1\obj\Release\RoboTech1.csproj.GenerateResource.Cache
+C:\Users\Заходи не стесняйся\Desktop\Robotech2 - копия\RoboTech1\bin\Release\RoboTech1.exe.config
+C:\Users\Заходи не стесняйся\Desktop\Robotech2 - копия\RoboTech1\obj\Release\RoboTech1.exe
+C:\Users\Заходи не стесняйся\Desktop\Robotech2 - копия\RoboTech1\obj\Release\RoboTech1.pdb
+C:\Users\Заходи не стесняйся\Desktop\Robotech2 - копия\RoboTech1\bin\Release\RoboTech1.exe
+C:\Users\Заходи не стесняйся\Desktop\Robotech2 - копия\RoboTech1\bin\Release\RoboTech1.pdb
+C:\Users\Заходи не стесняйся\Desktop\Robotech2 - копия\RoboTech1\obj\Release\RoboTech1.Form1.resources
+C:\Users\Заходи не стесняйся\Desktop\Robotech2 - копия\RoboTech1\obj\Release\RoboTech1.Properties.Resources.resources
+C:\Users\Заходи не стесняйся\Desktop\Robotech2 - копия\RoboTech1\obj\Release\RoboTech1.csproj.GenerateResource.Cache
