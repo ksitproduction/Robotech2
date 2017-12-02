@@ -51,16 +51,16 @@ namespace RoboTech1
                 int numOfPoints = Convert.ToInt32(pointsCount.Text);
                 if ((numOfPoints <= 1) || (numOfPoints > 9))
                 {
-                    MessageBox.Show("Введите число от 1 до 9");
+                    MessageBox.Show("Введите число от 2 до 9");
                 }
                 else
                 {
                     comboBox1.Items.Clear();
-                    g.DrawEllipse(pn, 200, 500, 10, 10); //начальная точка
+                    g.DrawEllipse(pn, 300, 300, 10, 10); //начальная точка
 
                     for (int i = 0; i < numOfPoints; i++)
                     {
-                        points.Add(new MyPoint(200 + i * 20, 500 - i * 60, i));
+                        points.Add(new MyPoint(300 + i * 15, 300 - i * 30, i));
                     }
 
                     foreach (MyPoint p in points)
@@ -82,7 +82,7 @@ namespace RoboTech1
         private void Draw2(List<MyPoint> list)
         {
             g.Clear(Color.White);
-            g.DrawEllipse(pn, 200, 500, 10, 10); //начальная точка
+            g.DrawEllipse(pn, 300, 300, 10, 10); //начальная точка
 
             foreach (MyPoint p in list)
             {
@@ -142,7 +142,6 @@ namespace RoboTech1
                 }
             }
             Draw2(points);
-            comboBox1.Items.Clear();
         }
 
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
@@ -151,7 +150,7 @@ namespace RoboTech1
             {
                 foreach (MyPoint p in points)
                 {
-                    if (p.Index == (comboBox1.SelectedIndex + 1))
+                    if (p.Index == (comboBox1.SelectedIndex))
                     {
                         redPoint = p.Index;
                         pn = new Pen(Color.Red, 5);  // Перо для рисования
@@ -194,7 +193,7 @@ namespace RoboTech1
                 }
             }
             Draw2(points);
-            comboBox1.Items.Clear();
+            
         }
 
         private void Form1_KeyUp(object sender, KeyEventArgs e) //реакция на нажатия стрелок на клавиатуре
