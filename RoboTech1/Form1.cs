@@ -51,7 +51,7 @@ namespace RoboTech1
                 int numOfPoints = Convert.ToInt32(pointsCount.Text);
                 if ((numOfPoints <= 1) || (numOfPoints > 9))
                 {
-                    MessageBox.Show("Введите число от 2 до 9");
+                    MessageBox.Show("Ошибка! Введите количество узлов от 2 до 9");
                 }
                 else
                 {
@@ -114,7 +114,8 @@ namespace RoboTech1
                     }
                 }
             }
-        } //отрисовка при нажатии кнопок "Верх, Вниз"
+        } 
+        //отрисовка при нажатии кнопок "Верх, Вниз"
 
         private void upBtn_Click(object sender, EventArgs e)
         {
@@ -229,7 +230,7 @@ namespace RoboTech1
             int numOfPoints = Convert.ToInt32(pointsCount.Text);
             if ((numOfPoints <= 1) || (numOfPoints > 9))
             {
-                MessageBox.Show("Введите число от 1 до 9");
+                MessageBox.Show("Введите число от 2 до 9");
             }
             else
             {
@@ -257,11 +258,25 @@ namespace RoboTech1
             }
         }
 
-        
-
         private void Form1_Load(object sender, EventArgs e)
         {
             comboBox1.DropDownStyle = ComboBoxStyle.DropDownList;
+        }
+
+        //меню информации
+        private void управлениеToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Управление осуществляется либо кликом мышки на кнопки \"Верх\" и \"Вниз\", либо с помощью соответствующих стрелок на клавиатуре.");
+        }
+
+        private void узлыToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Ограниченное количество узлов объясняется \r\nнебольшим размером области отрисовки.");
+        }
+        //Выход из приложения
+        private void выходToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
         }
     }
 }
