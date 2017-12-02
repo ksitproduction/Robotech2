@@ -90,3 +90,12 @@ C:\Users\aptik\OneDrive\Documents\GitHub\Robotech2\RoboTech1\obj\Release\RoboTec
 C:\Users\aptik\OneDrive\Documents\GitHub\Robotech2\RoboTech1\obj\Release\RoboTech1.csproj.CoreCompileInputs.cache
 C:\Users\aptik\OneDrive\Documents\GitHub\Robotech2\RoboTech1\obj\Release\RoboTech1.exe
 C:\Users\aptik\OneDrive\Documents\GitHub\Robotech2\RoboTech1\obj\Release\RoboTech1.pdb
+C:\My Documents\GitHub\Robotech2\RoboTech1\bin\Release\RoboTech1.exe.config
+C:\My Documents\GitHub\Robotech2\RoboTech1\obj\Release\RoboTech1.exe
+C:\My Documents\GitHub\Robotech2\RoboTech1\obj\Release\RoboTech1.pdb
+C:\My Documents\GitHub\Robotech2\RoboTech1\bin\Release\RoboTech1.exe
+C:\My Documents\GitHub\Robotech2\RoboTech1\bin\Release\RoboTech1.pdb
+C:\My Documents\GitHub\Robotech2\RoboTech1\obj\Release\RoboTech1.csprojResolveAssemblyReference.cache
+C:\My Documents\GitHub\Robotech2\RoboTech1\obj\Release\RoboTech1.Form1.resources
+C:\My Documents\GitHub\Robotech2\RoboTech1\obj\Release\RoboTech1.Properties.Resources.resources
+C:\My Documents\GitHub\Robotech2\RoboTech1\obj\Release\RoboTech1.csproj.GenerateResource.Cache
