@@ -114,35 +114,29 @@ namespace RoboTech1
                     }
                 }
             }
-        } 
+        }
         //отрисовка при нажатии кнопок "Верх, Вниз"
 
-        private void upBtn_Click(object sender, EventArgs e)
+        private void upBtn_Click(object sender, EventArgs e) //кнопка "Верх" (или стрелка на клавиатуре)
         {
             if (stepTextBox.Text != "")
                 step = Convert.ToInt32(stepTextBox.Text.ToString());
             g.Clear(Color.White);
-            foreach (MyPoint p in points)
+            foreach (MyPoint p in points) //для всех узлов
             {
-                if (p.Index > redPoint)
+                if (p.Index > redPoint) //для узлов, которые находятся выше выбранного узла
                 {
-                    if (p.Index == (redPoint + 1))
-                    {
-                        angle = Convert.ToInt32(Math.Round((Math.Atan2((p.Y - points[p.Index - 1].Y), (p.X - points[p.Index - 1].X))) * 180 / Math.PI));
-                    }
-                    if (p.Index > (redPoint + 1))
-                    {
-                        angle = Convert.ToInt32(Math.Round((Math.Atan2((p.Y - points[redPoint].Y), (p.X - points[redPoint].X))) * 180 / Math.PI));
-                    }
+                    angle = Convert.ToInt32(Math.Round((Math.Atan2((p.Y - points[redPoint].Y), (p.X - points[redPoint].X))) * 180 / Math.PI));
                     r = Math.Sqrt(((p.X - points[redPoint].X) * (p.X - points[redPoint].X)) + ((p.Y - points[redPoint].Y) * (p.Y - points[redPoint].Y)));
-
+                    //находим радиус окружности между выранным узлом и каким-то узлом выше
                     p.X = Math.Round(points[redPoint].X + r * Math.Cos((angle - step) * Math.PI / 180));
                     p.Y = Math.Round(points[redPoint].Y + r * Math.Sin((angle - step) * Math.PI / 180));
-
-                    textBox1.Text = (angle - step).ToString();
+                    //по этой окружности сдвигаем 
+                    textBox1.Text = (angle - step).ToString(); //выводим угол в правом верхнем углу
                 }
             }
             Draw2(points);
+            comboBox1.Items.Clear();
         }
 
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
@@ -167,34 +161,26 @@ namespace RoboTech1
 
         }
 
-        private void downBtn_Click(object sender, EventArgs e)
+        private void downBtn_Click(object sender, EventArgs e) //кнопка "Вниз"
         {
             if (stepTextBox.Text != "")
                 step = Convert.ToInt32(stepTextBox.Text.ToString());
             g.Clear(Color.White);
             foreach (MyPoint p in points)
             {
-                if (p.Index == (redPoint + 1))
-                {
-                    r = Math.Sqrt(((p.X - points[redPoint].X) * (p.X - points[redPoint].X)) + ((p.Y - points[redPoint].Y) * (p.Y - points[redPoint].Y)));
-                    angle = Convert.ToInt32(Math.Round((Math.Atan2((p.Y - points[p.Index - 1].Y), (p.X - points[p.Index - 1].X))) * 180 / Math.PI));
-
-                    p.X = Math.Round(points[redPoint].X + r * Math.Cos((angle + step) * Math.PI / 180));
-                    p.Y = Math.Round(points[redPoint].Y + r * Math.Sin((angle + step) * Math.PI / 180));
-
-                }
-                if (p.Index > (redPoint + 1))
+                if (p.Index > redPoint) //для узлов, которые находятся выше выбранного узла
                 {
                     angle = Convert.ToInt32(Math.Round((Math.Atan2((p.Y - points[redPoint].Y), (p.X - points[redPoint].X))) * 180 / Math.PI));
                     r = Math.Sqrt(((p.X - points[redPoint].X) * (p.X - points[redPoint].X)) + ((p.Y - points[redPoint].Y) * (p.Y - points[redPoint].Y)));
 
                     textBox1.Text = (angle + step).ToString();
+
                     p.X = Math.Round(points[redPoint].X + r * Math.Cos((angle + step) * Math.PI / 180));
                     p.Y = Math.Round(points[redPoint].Y + r * Math.Sin((angle + step) * Math.PI / 180));
                 }
             }
             Draw2(points);
-            
+            comboBox1.Items.Clear();
         }
 
         private void Form1_KeyUp(object sender, KeyEventArgs e) //реакция на нажатия стрелок на клавиатуре

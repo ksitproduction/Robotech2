@@ -99,3 +99,12 @@ C:\My Documents\GitHub\Robotech2\RoboTech1\obj\Release\RoboTech1.csprojResolveAs
 C:\My Documents\GitHub\Robotech2\RoboTech1\obj\Release\RoboTech1.Form1.resources
 C:\My Documents\GitHub\Robotech2\RoboTech1\obj\Release\RoboTech1.Properties.Resources.resources
 C:\My Documents\GitHub\Robotech2\RoboTech1\obj\Release\RoboTech1.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\GitHub\Robotech2\RoboTech1\bin\Release\RoboTech1.exe.config
+C:\Users\Admin\Documents\GitHub\Robotech2\RoboTech1\obj\Release\RoboTech1.exe
+C:\Users\Admin\Documents\GitHub\Robotech2\RoboTech1\obj\Release\RoboTech1.pdb
+C:\Users\Admin\Documents\GitHub\Robotech2\RoboTech1\bin\Release\RoboTech1.exe
+C:\Users\Admin\Documents\GitHub\Robotech2\RoboTech1\bin\Release\RoboTech1.pdb
+C:\Users\Admin\Documents\GitHub\Robotech2\RoboTech1\obj\Release\RoboTech1.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\Robotech2\RoboTech1\obj\Release\RoboTech1.Form1.resources
+C:\Users\Admin\Documents\GitHub\Robotech2\RoboTech1\obj\Release\RoboTech1.Properties.Resources.resources
+C:\Users\Admin\Documents\GitHub\Robotech2\RoboTech1\obj\Release\RoboTech1.csproj.GenerateResource.Cache
